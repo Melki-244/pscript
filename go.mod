@@ -1,4 +1,4 @@
-module github.com/Melki-244/Go-Scripts
+module github.com/Melki-244/pscript
 
 go 1.18
 
